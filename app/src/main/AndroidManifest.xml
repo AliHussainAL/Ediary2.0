@@ -19,7 +19,9 @@
         <activity android:name=".Registration" />
         <activity android:name=".mock" />
         <activity android:name=".forgotLogin" />
-        <activity android:name=".health_excercise"></activity>
+        <activity android:name=".health_excercise" />
+        <activity android:name=".Contacts" />
+        <activity android:name=".addContacts"></activity>
     </application>
 
 </manifest>

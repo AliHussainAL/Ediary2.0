@@ -59,4 +59,24 @@ to that user"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="42dp"
         app:layout_constraintHorizontal_bias="0.504" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Name"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="263dp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Name"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="348dp" />
 </android.support.constraint.ConstraintLayout>
